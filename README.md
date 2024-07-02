@@ -1,1 +1,1 @@
-# Portofolio
+Create my own portfolio to learn how to use HTML/CSS/JS
